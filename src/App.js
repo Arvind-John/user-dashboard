@@ -114,7 +114,7 @@ const App = () => {
       </button>
       <div className="user-card">
         {users.map((user) => (
-          <card key={user.id} className="">
+          <card key={user.id}>
             <cardContent>
               <p>
                 <strong>ID:</strong> {user.id}
