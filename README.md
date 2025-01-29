@@ -40,4 +40,4 @@ This is a simple React.js web application for managing users. It allows users to
 
 -Implement local storage for offline support.
 -Add authentication and user roles.
--Improve UI/UX with more styling.
+-Improve UI with more styling.
